@@ -11,6 +11,8 @@
 
 #### 使用说明
 ![输入图片说明](foot.png)# 英雄联盟python锁脚
+![image](https://github.com/GitforZm/lolFightFoot/assets/43491330/6f22200c-57b6-431f-9317-8bd34fd1f18e)
+
 
 #### 参与贡献
 
